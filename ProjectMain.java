@@ -1,10 +1,6 @@
 
 class ProjectMain{
     public static void main(String[] args) {
-        
-        Product banana = new Product("Banana", 2);
-        banana.ShowDetail();
-        banana.AddtoBasket();
 
         Shoe kerb = new Shoe("Kerbtae", 10, 10);
         kerb.ShowDetail();
@@ -19,7 +15,7 @@ class ProjectMain{
         taewjean.AddtoBasket();
 
 
-        
+
         
 
         
